@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ToDoListApp",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../.Trash/assets"
+		}
+	],
+	"settings": {}
+}
