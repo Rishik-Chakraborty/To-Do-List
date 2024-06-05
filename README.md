@@ -61,7 +61,7 @@ The Simple To-Do List App is a React Native application designed to help users m
 ## Features for Next Iteration
 
 1. **Persistent Storage**:
-   - Integrate persistent storage like a database to save tasks, even when the app is reloaded.
+   - Integrate persistent storage like a database to save tasks, even when reloading the app.
 
 2. **Enhanced UI/UX**:
    - Improve the user interface with better visual feedback and animations.
@@ -69,5 +69,5 @@ The Simple To-Do List App is a React Native application designed to help users m
 3. **Task Editing**:
    - Allow users to edit existing tasks instead of only adding or deleting them.
 
-4. **Un-Deleting Tasks**:
-   - Allow users to undelete an existing deleted task.
+4. **Restoring Deleted Tasks**
+   - Enable users to restore previously deleted tasks.
